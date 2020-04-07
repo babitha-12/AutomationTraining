@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 import Utilities.PageUtility;
 
 public class BranchPage {
-private static final int Time = 0;
+
 WebDriver driver;
 	
 	public BranchPage(WebDriver driver) {
