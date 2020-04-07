@@ -22,7 +22,7 @@ WebDriver driver;
 	// @FindBy(xpath="//a[href='/payrollapp/branch/create?sort=company_id']")
 	 @FindBy(xpath="//a[text()='Company']")
 	 WebElement companylink;
-	 //@FindBy(xpath="//a[href='/payrollapp/branch/create?sort=branch_name']")
+	 
 	 @FindBy(xpath="//a[text()='Branch Name']")
 	 WebElement branchname;
 	 //@FindBy(xpath="//a[href='/payrollapp/branch/create?sort=status']")
